@@ -20,5 +20,6 @@ def processData(inputname, outputname, max):
 processData("rainbow.npy", "rainbows.bin", total)
 processData("train.npy", "trains.bin", total)
 processData("boomerang.npy", "boomerangs.bin", total)
+processData("cat.npy", "cats.bin", total)
 
 print("finished")
